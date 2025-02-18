@@ -7,3 +7,5 @@
 - Monthly
 
 - Other Task
+
+* Planning / Follow Plan
