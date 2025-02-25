@@ -1,3 +1,12 @@
+
+## Todo
+## Daily
+### Work
+### Health
+## Weekly
+
+
+
 * Remember Re/NoT ⚪
 - Daily
   - [ ] exercise
