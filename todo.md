@@ -7,7 +7,7 @@
 
 
 
-* ⚪ ⚪ ⚪ ⚪ ⚪ Rem Re(NoT)
+* ⚪ ⚪ ⚪ ⚪ ⚪ Rem Re(NoT)  Re................ <<< noT
 - Daily
   - [ ] exercise
   - [ ] slp
