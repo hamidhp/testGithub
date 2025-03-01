@@ -3,6 +3,7 @@
 ## Daily
 ### Work
 ### Health
+Walk
 ## Weekly
 
 
