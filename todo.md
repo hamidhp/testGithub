@@ -1,9 +1,10 @@
 
 ## Todo
 ## Daily
-### Work
+### Work/income
 ### Health
 Walk
+slp
 ## Weekly
 
 
