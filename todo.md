@@ -4,12 +4,12 @@
 ### Work/income
 ### Health
 Walk
-slp
+slp +6h
 ## Weekly
 check this week
 
 
-* ⚪ ⚪ ⚪ ⚪ ⚪ Rem Re(NoT)  Re................ <<< noT
+* ⚪ Rem Re(NoT)  Re......... <<< noT
 - Daily
   - [ ] exercise
   - [ ] slp
