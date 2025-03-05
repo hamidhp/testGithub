@@ -2,6 +2,7 @@
 ## Todo
 ## Daily
 ### Work/income
+Crp
 ### Health
 Walk
 slp +6h
