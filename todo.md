@@ -1,4 +1,5 @@
-**dghamjw**
+
+**hamjkW**
 
 ## Todo
 ## Daily
@@ -25,7 +26,7 @@ check this week
 * Planning / Follow Plan
 * Check daily/weekly
 
-* 
+* focus on ...
 * Liv4ursl
 * Br . . . prsnt
 
