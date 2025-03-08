@@ -27,6 +27,7 @@ check this week
 * Check daily/weekly
 
 * focus on ...
+* real/logical self
 * Liv4ursl
 * Br . . . prsnt
 
