@@ -12,7 +12,6 @@ slp +6h
 check this week
 
 
-* ⚪ Rem Re(NoT)  Re......... <<< noT
 - Daily
   - [ ] exercise
   - [ ] slp
@@ -26,10 +25,7 @@ check this week
 * Planning / Follow Plan
 * Check daily/weekly
 
-* focus on ...
+* focus on planning & present
 * real/logical self
 * Liv4ursl
 * Br . . . prsnt
-
-4 rest
-End...
