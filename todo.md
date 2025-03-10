@@ -28,4 +28,4 @@ check this week
 * focus on planning & present
 * real/logical self
 * Liv4ursl
-* Br . . . prsnt
+* Br . . . prsnt.. ez br
