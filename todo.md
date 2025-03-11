@@ -1,6 +1,4 @@
 
-**hamjkW**
-
 ## Todo
 ## Daily
 ### Work/income
@@ -25,7 +23,5 @@ check this week
 * Planning / Follow Plan
 * Check daily/weekly
 
-* focus on planning & present
-* real/logical self
-* Liv4ursl
-* Br . . . prsnt.. ez br
+
+* justezBr . . . prsnt..
