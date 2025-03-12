@@ -10,14 +10,6 @@ slp +6h
 check this week
 
 
-- Daily
-  - [ ] exercise
-  - [ ] slp
-  - [ ] 
-- Weekly
-  - walk
-- Monthly
-
 - Other Task
 
 * Planning / Follow Plan
@@ -25,3 +17,4 @@ check this week
 
 
 * justezBr . . . prsnt..
+chWnow?
