@@ -1,13 +1,16 @@
 
-## Todo
+## Today
 ## Daily
+## Weekly
+check this week
+## This Week
+
 ### Work/income
 Crp
 ### Health
 Walk
 slp +6h
-## Weekly
-check this week
+
 
 
 - Other Task
