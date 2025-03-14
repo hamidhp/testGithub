@@ -20,4 +20,4 @@ slp +6h
 
 
 * justezBr . . . prsnt..
-chWnow?
+chWnow? hamjkwnow(img!)
