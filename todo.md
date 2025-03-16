@@ -20,5 +20,5 @@ slp +6h
 * Check daily/weekly
 
 
-* justezBr . . . prsnt..
+* justReezBr . . . prsnt..
 chWnow? hamjkwnow(img!)
