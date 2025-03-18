@@ -1,13 +1,18 @@
 
 ## Today
+
 ## Daily
+
 ## Weekly
 check this week
+
 ## This Week
+
 ## Month
 
 ### Work/income
 Crp
+
 ### Health
 Walk
 slp +6h
@@ -20,5 +25,5 @@ rest
 * Check daily/weekly
 
 
-* justReezBr . . . prsnt..
+* justRe...ezBr . . . prsnt..
 chWnow? hamjkwnow(img!)
