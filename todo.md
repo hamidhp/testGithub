@@ -1,6 +1,6 @@
 
-Re...M ⚪
-MW
+Re...M W ⚪
+
 
 ## Today
 work: daily , other (maybe 3-5 TASK)
