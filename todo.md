@@ -1,7 +1,7 @@
 :)
 ez..........dg
 justRe...M W ⚪
-
+Routine
 
 ## Today
 work: daily , other (maybe 3-5 TASK)
