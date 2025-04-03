@@ -1,4 +1,4 @@
-:)
+:) Re... MY*
 ez..........dg
 justRe...M W ⚪
 Routine
@@ -30,5 +30,3 @@ rest
 * Check daily/weekly
 
 
-* justRe...ezBr . . . prsnt..
-chWnow? hamjkwnow(img!)
