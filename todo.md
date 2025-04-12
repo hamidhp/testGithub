@@ -1,10 +1,4 @@
 
-dg⚪ Re... ChW? ? ? NOW/TODAY/*
-
-ez..........dg
-justRe...M W ⚪
-Routine
-
 ## Today
 work: daily , other (maybe 3-5 TASK)
 
@@ -27,6 +21,12 @@ rest
 
 ### ALL TASK
 
+### NOTE
+dg⚪ Re... ChW? ? ? NOW/TODAY/*
+
+ez..........dg
+justRe...M W ⚪
+Routine
 
 - Other Task
 
