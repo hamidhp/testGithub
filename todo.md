@@ -1,4 +1,4 @@
-**DO WITH RE...**
+**DO IT RE...**
 ## Today
 work: daily , other (maybe 3-5 TASK)
 
