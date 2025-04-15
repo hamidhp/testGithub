@@ -18,6 +18,7 @@ Crp
 Walk
 slp +6h
 rest
+water
 
 ### ALL TASK
 
