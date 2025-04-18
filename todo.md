@@ -1,4 +1,7 @@
 **DO IT RE...**
+Planning
+Obs & ppr
+
 ## Today
 work: daily , other (maybe 3-5 TASK)
 
