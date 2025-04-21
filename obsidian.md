@@ -1,5 +1,6 @@
 ```
 date:
+tags:
 desc: test
 
 ```
