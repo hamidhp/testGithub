@@ -30,7 +30,16 @@ LIMIT 5
 ```
 
 ```dataview
+TABLE type, layer, network, start
+FROM "Crp/Pro"
+WHERE type != "waitlist" AND my_sort = 1
+sort my_sort asc
+```
+
+```dataview
 LIST
 FROM "Crypto/Project"
 LIMIT 5
 ```
+
+
