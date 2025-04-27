@@ -1,7 +1,4 @@
-RE... Y/N?
-
-
-1. ......... !
+RE... y/n?
 
 **DO IT RE...⚪**
 Planning
