@@ -29,13 +29,6 @@ water
 
 ### ALL TASK
 
-### NOTE
-dg⚪ Re... ChW? ? ? NOW/TODAY/*
-
-ez..........dg
-justRe...M W ⚪
-Routine
-
 - Other Task
 
 * Planning / Follow Plan
