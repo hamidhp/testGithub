@@ -2,7 +2,7 @@ shlkon, LivNOW
 RE... y/n?
 chw@all
 
-**DO IT RE...⚪**
+**DO IT RE...⚪**  REM.wen⚪as supp
 Planning
 Obs & ppr
 
