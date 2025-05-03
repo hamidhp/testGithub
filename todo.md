@@ -1,8 +1,9 @@
 shlkon, LivNOW
 RE... y/n?
+REM.wen⚪as supp
 chw@all
 
-**DO IT RE...⚪**  REM.wen⚪as supp
+**DO IT RE...⚪**  
 Planning
 Obs & ppr
 
