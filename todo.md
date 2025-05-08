@@ -1,5 +1,6 @@
 Checklist
 Write Note
+good plan and do
 
 shlkon, LivNOW
 RE... y/n?
