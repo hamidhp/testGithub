@@ -1,8 +1,6 @@
 ---
 tags: todo, 
 cat: 
-sort:
-
 ---
 
 RE.BDY... KNOWBESTWNOW
