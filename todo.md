@@ -1,6 +1,5 @@
 ---
 tags: todo, 
-cat: 
 ---
 
 RE.BDY... KNOWBESTWNOW
