@@ -1,10 +1,8 @@
----
-tags: todo, 
----
+**ezReBr** : no.st/fr
+**Write Note**
+**Have Plan**
 
 RE.BDY... KNOWBEST**W**NOW
-
-**Write Note**
 
 Re.bdy... W?
 
