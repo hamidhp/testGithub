@@ -30,7 +30,7 @@ RE... y/n?
 REM.wen⚪as supp
 chw@all
 
-**DO IT RE...⚪**  
+**RE...⚪ DO IT**  
 Planning
 Obs & ppr
 
