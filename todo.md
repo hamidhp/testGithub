@@ -1,32 +1,24 @@
+dg Re,M,W
 Today/Now
+**Write Note**
+**Have Plan**
 
 1.Re⚪
 🎗Re... hamjkW
 nowchw ?! @all?
 
-
 **ezReBr** : no.st/fr
-**Write Note**
-**Have Plan**
 
 RE.BDY... KNOWBEST**W**NOW
 
-note th , feel
-
 dg hamjW? Re..ezBr ...?
 
-just Br
 resp/Lv Ms & Mbdy
 ChW? rest **LivHamjW**
 
 ---
 
-Checklist
-Write Note
-good plan and do
-
 shlkon, LivNOW
-RE... y/n?
 REM.wen⚪as supp
 chw@all
 
