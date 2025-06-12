@@ -1,4 +1,4 @@
-**dg** Re,M,W
+**dg** Re,M,W  noAng
 Today/Now
 **Write Note**
 **Have Plan**
