@@ -1,4 +1,4 @@
-d..g hamjkW ? ? ?
+**d___g...** hamjkW ? ? ?
 Re⚪
 
 Re & SlfEs
@@ -10,26 +10,11 @@ Today/Now
 **Have Plan**
 **H**realW >> H I Lv He 
 
-1.Re⚪
-🎗Re... hamjkW
-nowchw ?! @all?
-
-**ezReBr** : no.st/fr
-
-RE.BDY... KNOWBEST**W**NOW
-
-dg hamjW? Re..ezBr ...?
-
 resp/Lv Ms & Mbdy
 ChW? rest **LivHamjW**
 
 ---
 
-shlkon, LivNOW
-REM.wen⚪as supp
-chw@all
-
-**RE...⚪ DO IT**  
 Planning
 Obs & ppr
 
