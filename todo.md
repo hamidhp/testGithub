@@ -1,17 +1,12 @@
+
+⚪
 **d___g...** hamjkW ? ? ?
 Re⚪
 
-Re & SlfEs
 
-**d___g...** Re,M,W  noAng
-
-Today/Now
 **Write Note**
 **Have Plan**
-**H**realW >> H I Lv He 
 
-resp/Lv Ms & Mbdy
-ChW? rest **LivHamjW**
 
 ---
 
