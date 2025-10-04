@@ -1,6 +1,5 @@
 
-⚪
-**d___g...** hamjkW ? ? ?
+**d___g...** hamjkW ? ?
 Re⚪
 
 
@@ -8,41 +7,26 @@ Re⚪
 **Have Plan**
 
 
----
-
-Planning
-Obs & ppr
-
 ## Today
-work: daily , other (maybe 3-5 TASK)
 
 ## Daily
 
 ## Weekly
-check this week
 
 ## This Week
 
 ## Month
 
-## Year
+## Season/Year
 
 ---
 
 ### Work/income
-Crp
-
-### Health
-Walk
-slp +6h
-rest
-water
+### Skills
+### Fav
+### Health/Pers
 
 ### ALL TASK
 
-- Other Task
-
-* Planning / Follow Plan
-* Check daily/weekly
 
 
