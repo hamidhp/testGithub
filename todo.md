@@ -1,7 +1,7 @@
 
 **d___g...** hamjkW ? ?
 Re⚪
-
+⚪(noT Re) enj Fk L in ur term
 
 **Write Note**
 **Have Plan**
