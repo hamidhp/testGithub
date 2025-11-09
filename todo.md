@@ -4,6 +4,7 @@ Re⚪
 ⚪(noT Re) enj Fk L in ur term
 
 Focus, Flow, Enjoy, Relax
+⚪W
 
 **Write Note**
 **Have Plan**
