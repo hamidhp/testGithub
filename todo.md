@@ -6,7 +6,7 @@ Re⚪
 Focus, Flow, Enjoy, Relax
 ⚪W
 
-IWISH41D Re&⚪W
+I WISH 4 1D >> Re&⚪W
 
 **Write Note**
 **Have Plan**
