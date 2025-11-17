@@ -3,9 +3,7 @@
 ReBdy⚪ ⚪
 
 
-⚪w?  ⚪w?  ⚪w?
-
-
 How Hlp Ms
 
-Re & Focus    1 2 3 ...⚪
+Re & Focus    1⚪ 2⚪ 3⚪ ...
+WNOW? WNOW? WNOW?
