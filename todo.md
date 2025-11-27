@@ -4,6 +4,6 @@
   easy Re
   bye dd
 
-  Write, Planning
+  Write, Planning, step by step
 
   Write Th
