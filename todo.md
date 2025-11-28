@@ -2,7 +2,7 @@
 
 
   easy Re
-  bye dd
+  ... bye dd
 
   Write, Planning, step by step
 
