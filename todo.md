@@ -2,7 +2,6 @@
 
 
   easy Re
-  ... bye dd
 
 
   Write Th
