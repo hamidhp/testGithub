@@ -1,7 +1,7 @@
 
 
 
-  tk easy Re
+  tk easy Re {noT}
 
   to Live
 
