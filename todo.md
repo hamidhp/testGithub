@@ -1,5 +1,6 @@
 
-
+NOW.W / TOD.W
+satisf/accpt @end
 
   Re {noT} Br
 
