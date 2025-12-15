@@ -2,7 +2,7 @@
 NOW.W / TOD.W
 satisf/accpt @end
 
-  Re {noT} Br
+  Re {noT} Br  ⚪
 
 
   Write Th
