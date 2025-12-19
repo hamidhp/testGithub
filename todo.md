@@ -1,10 +1,10 @@
 
+Re {noT} Br  ⚪
+  
 NOW.W / TOD.W
 satisf/accpt @end
 
 Best HlpMs
-
-  Re {noT} Br  ⚪
 
 
   Write Th
