@@ -1,5 +1,7 @@
 
 Re {noT} Br  ⚪
+
+img before like darts
   
 NOW.W / TOD.W
 satisf/accpt @end
