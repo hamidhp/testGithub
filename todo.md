@@ -1,7 +1,7 @@
 
 Re {noT} Br  ⚪
 ⚪ inM 
-⚪ Re ChW?
+⚪ Re ChW?(now/tod)
 
 img before like darts
   
