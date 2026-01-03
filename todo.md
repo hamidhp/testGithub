@@ -4,6 +4,8 @@ Re {noT} Br  ⚪ M
 ⚪ Re ChW?(now/tod)
 
 img before like darts
+
+to small goals/tasks
   
 NOW.W / TOD.W
 satisf/accpt @end
