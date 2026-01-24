@@ -4,6 +4,8 @@ Re {noT} Br  ⚪ M
 ⚪ inM 
 ⚪ Re ChW?(now/tod)
 
+Flow fav/Goals
+
 img before like darts
 
 to small goals/tasks
