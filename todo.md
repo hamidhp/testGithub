@@ -6,6 +6,8 @@ Re {noT} Br  ⚪ M
 
 Flow fav/Goals
 
+ArtOfGvFk
+
 img before like darts
 
 to small goals/tasks
