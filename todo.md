@@ -1,7 +1,7 @@
 
 Re⚪..⚪..⚪
 Re {noT} Br  ⚪ M
-⚪ inM 
+inM 
 ⚪ Re ChW?(now/tod)
 
 Flow fav/Goals
