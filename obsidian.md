@@ -2,7 +2,6 @@
 date:
 tags:
 desc: test
-hp:
 ```
 
 Obsidian
