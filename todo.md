@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
-dg...base Re⚪
+dg... Re⚪
 
 NoT 2 Liv
