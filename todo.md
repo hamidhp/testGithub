@@ -3,4 +3,4 @@
 
 dg... Re⚪
 
-NoT 2 Liv
+WRITE, PLAN
