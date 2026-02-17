@@ -1,6 +1,6 @@
 
 
 
-dg... Re⚪
+dg... Re⚪{noT)
 
 WRITE, PLAN
