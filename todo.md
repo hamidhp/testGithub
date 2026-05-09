@@ -1,10 +1,5 @@
 
-noT2Re
 
-ImgW?
+acpt
 
-- - -
-ReBDY ⬛⬛⬛⬜
-ANX   ⬛⬜⬜⬜
-FER(T)⬛⬜⬜⬜
-other setting
+ReNotMs
