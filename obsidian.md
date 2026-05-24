@@ -4,7 +4,7 @@ tags:
 desc: test
 ```
 
-Obsidian
+**Obsidian**
 
 all files in your vault:
 
