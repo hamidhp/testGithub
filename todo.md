@@ -1,6 +1,6 @@
 
 
-DG ... DG ...
+DG... DG...
 Re W
 
 -> ⚪ReNot <-
