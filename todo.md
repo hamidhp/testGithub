@@ -1,7 +1,7 @@
 
 
 DG... DG...
-Re W
+Lv: Re noT W -> DD
 
 -> ⚪ReNot <-
 hamjkw
