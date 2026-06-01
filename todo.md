@@ -1,8 +1,4 @@
-DG ⚪REM: ReNot
+DG ⚪ReNot HamjW
 
 DG... DG...
-Lv: Re noT W -> DD
-
--> ⚪ReNot <-
-hamjkw
-
+Liv: Re noT W -> DD
