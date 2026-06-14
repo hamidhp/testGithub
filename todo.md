@@ -2,4 +2,4 @@
 
 **ReBdy**{hnd/ft}
 
-inV talk
+inV talk, Write
