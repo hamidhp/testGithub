@@ -1,5 +1,5 @@
 ⚪🎗
-**ReBdy**{bStrng}⚪ & W
+**ReBdy**⚪ & W
 **ReBdy**{hnd/ft/Mnd feel.noT}⚪ & ...
 & bYrS
 
