@@ -1,3 +1,3 @@
 
-Re...⚪
+Re...⚪  normBr
 feeeeel W ???
