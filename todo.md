@@ -1,5 +1,5 @@
 
-**Flow**: fav, skils, asks, ...
+**Flow**: fav, skils, tasks, ...
 
 ⚪{Re,noT feeeel} H
 
