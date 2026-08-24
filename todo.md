@@ -1,5 +1,5 @@
 
-**dg**: bikh st/fr
+**dg**: no st/fr
 
 dg ⚪ <<<
 
