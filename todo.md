@@ -1,6 +1,6 @@
 
 dg ⚪ <<<
-1-2y! bYs(hamjW)
+ bYs(hamjW)
 
 feeeel Re/noT/bdy/enj ez
 
