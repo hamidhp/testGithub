@@ -1,9 +1,5 @@
 
-dg ⚪ <<<
- Re, ez
- bYs(hamjW)
-
-feeeel Re/noT/bdy/enj ez
+dg ⚪ <<< feeeel Re, noT, bdy, enj, ez, bYs(hamjW)
 
 ⚪ 🙂 !
 
