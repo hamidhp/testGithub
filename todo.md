@@ -1,5 +1,5 @@
 
-dg ⚪ <<< feeeel Re, noT, bdy, enj, ez, bYs(hamjW)
+dg ⚪ <<< feeeel Re, noT, bdy, ez, bYs(hamjW)
 
 ⚪ 🙂 !
 
