@@ -1,5 +1,5 @@
 
-dg ⚪ <<< feeeel Re, noT(F.less), bdy, ez, bYs(hamjW)
+dg ⚪ <<< feeel Re, noT(F.less), ez, bYs(hamjW)
 
 ⚪ 🙂 !
 
