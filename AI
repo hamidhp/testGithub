@@ -1,25 +1,22 @@
-test
-
-```List
-Perplexity
-Duck
-Qwen
-ChatGPT
-Grok
-Gemini
-Claude
-DeepSeek
-Google NotebookLM
-Microsoft Copilot
-Bing
-Meta AI
-Pi
-venice
-Heygen
-```
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | Gemini      | Google | ... |
 | ChatGPT      | OpenAI        |   ... |
-| Claude | ...        |    ... |
+| Claude | ...        |    ... |# Welcome to StackEdit!
+| Perplexity
+| Duck
+| Qwen
+| ChatGPT
+| Grok
+| Gemini
+| Claude
+| DeepSeek
+| Google NotebookLM
+| Microsoft Copilot
+| Bing
+| Meta AI
+| Pi
+| venice
+| Heygen
+
