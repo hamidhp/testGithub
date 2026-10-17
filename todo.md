@@ -2,7 +2,7 @@
 Planning
 
 
-⚪dg!...     Br+Rebdy, Re ez noT imgW!
+⚪dg!...     Rebdy, Re ez noT imgW!
 
 
 ``` TODO
