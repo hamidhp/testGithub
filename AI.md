@@ -6,12 +6,12 @@
 | Claude | ...        |    ... |# Welcome to StackEdit!
 | Perplexity
 | Duck
-| Qwen
+| Qwen | China/?
 | ChatGPT
 | Grok
 | Gemini
 | Claude
-| DeepSeek
+| DeepSeek | China/?
 | Google NotebookLM
 | Microsoft Copilot
 | Bing
