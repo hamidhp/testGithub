@@ -2,19 +2,17 @@
 | AI  | Company | cat | Models
 | :------------ |:---------------:| -----:|:------------ |
 | Gemini      | Google | ... |
-| ChatGPT      | OpenAI        |   ... |
+| ChatGPT      | OpenAI        |   ... | gpt-??
 | Claude | ...        |    ... |# Welcome to StackEdit!
 | Perplexity
 | Duck
 | Qwen | China/?
-| ChatGPT
-| Grok
-| Gemini
-| Claude
+| Grok | xAI, Twitter
+| Gemini | Google
 | DeepSeek | China/?
 | Google NotebookLM
 | Microsoft Copilot
-| Bing
+| Bing | Microsoft
 | Meta AI
 | Pi
 | venice
