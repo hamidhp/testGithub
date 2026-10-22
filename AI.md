@@ -22,10 +22,7 @@
 | Heygen
 | leonardo
 | Hermes | Agent
-
 | HuggingChat
 | Google Flow
-
-| openrouter
-
-| Ollama
+| openrouter | | API
+| Ollama | | Local
