@@ -3,7 +3,7 @@
 | :------------ |:---------------:| -----:|:------------ |
 | Gemini      | Google | ... |
 | ChatGPT      | OpenAI        |   ... | gpt-??
-| Claude | ...        |    ... |# Welcome to StackEdit!
+| Claude | ...        |    ... |
 | Perplexity
 | Duck
 | Qwen | China/?
@@ -16,7 +16,7 @@
 | Meta AI
 | Pi
 | venice
-| Midjourney
+| Midjourney | | image
 | Nano Banana
 | Recraft
 | Heygen
