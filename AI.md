@@ -5,7 +5,7 @@
 | ChatGPT      | OpenAI        |   ... | gpt-??
 | Claude | ...        |    ... |
 | Perplexity
-| Duck
+| Duck | DuckDuckGo
 | Qwen | China/?
 | Grok | xAI, Twitter
 | Gemini | Google
