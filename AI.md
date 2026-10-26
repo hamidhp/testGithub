@@ -1,11 +1,11 @@
 
-| AI  | Company | cat | Models
+| AI  | Company | cat | Models | desc
 | :------------ |:---------------:| -----:|:------------ |
 | Gemini      | Google | ... |
 | ChatGPT      | OpenAI        |   ... | gpt-??
 | Claude | ...        |    ... |
 | Perplexity
-| Duck | DuckDuckGo
+| Duck | DuckDuckGo | | | no-signin
 | Qwen | China/?
 | Grok | xAI, Twitter
 | Gemini | Google
