@@ -17,7 +17,7 @@
 | Pi
 | venice
 | Midjourney | | image
-| Nano Banana
+| Nano Banana | | `image`
 | Recraft
 | Heygen
 | leonardo
