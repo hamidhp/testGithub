@@ -1,23 +1,23 @@
 
 | AI  | Company | cat | Models | desc
 | :------------ |:---------------:| -----:|:------------ |:------------ |
-| Gemini      | Google | ... |
+| Gemini | Google | ... | gemini, Nano Banana
 | ChatGPT      | OpenAI        |   ... | gpt-??
 | Claude | ...        |    ... |
-| Perplexity
-| Duck | DuckDuckGo | . | . | no-signin
+| StudioAI | Google | | gemini
 | Qwen | China/?
 | Grok | xAI, Twitter
 | Gemini | Google
 | DeepSeek | China/?
 | Google NotebookLM
 | Microsoft Copilot
+| Perplexity
+| Duck | DuckDuckGo | . | . | no-signin
 | Bing | Microsoft
 | Meta AI
 | Pi
 | venice
 | Midjourney | | image
-| Nano Banana | | `image`
 | Recraft
 | Heygen
 | leonardo
