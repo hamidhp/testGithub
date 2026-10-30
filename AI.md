@@ -7,11 +7,11 @@
 | StudioAI | Google | | gemini
 | Qwen | China/?
 | Grok | xAI, Twitter
-| Gemini | Google
+| Gemini | Google | | Gemini
 | DeepSeek | China/?
 | Google NotebookLM
 | Microsoft Copilot
-| Perplexity
+| Perplexity | | | auto
 | Duck | DuckDuckGo | . | . | no-signin
 | Bing | Microsoft
 | Meta AI
