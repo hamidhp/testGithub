@@ -1,7 +1,6 @@
 
-Re(bdy)⚪ noT
+dg.base jst Re(bdy)⚪
 ⚪dg!...     Rebdy, Re ez noT imgW!
-dg.base
 accept
 
 Planning
@@ -11,5 +10,5 @@ Per,hlth
 $
 skills
 
-## week
+## Week
 
