@@ -1,4 +1,9 @@
 
+Model
+API
+Agent
+Platform !
+
 | AI  | Company | cat | Models | desc
 | :------------ |:---------------:| -----:|:------------ |:------------ |
 | Gemini | Google | ... | gemini, Nano Banana
@@ -24,5 +29,6 @@
 | Hermes | Agent
 | HuggingChat
 | Google Flow
+| Higgsfield | | Platform{Image, Video}
 | openrouter | | API
 | Ollama | | Local
