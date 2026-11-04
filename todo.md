@@ -1,5 +1,5 @@
 
-dg.base jst Re(bdy)⚪
+dg.base jst Re(bdy)⚪  HW!
 ⚪dg!...     Rebdy, Re ez noT imgW!
 accept
 
