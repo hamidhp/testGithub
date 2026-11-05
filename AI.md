@@ -13,7 +13,7 @@ Platform !
 | Qwen | China/?
 | Grok | xAI, Twitter
 | Gemini | Google | | Gemini
-| DeepSeek | China/?
+| DeepSeek | DeepSeek{China}
 | Google NotebookLM
 | Microsoft Copilot
 | Perplexity | | | auto
