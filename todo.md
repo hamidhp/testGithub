@@ -1,7 +1,7 @@
 
-dg.base jst Re(bdy)⚪  HW!
-⚪dg!...     Rebdy, Re ez noT imgW!
+⚪dg!...     Rebdy, Re ez noT imgW!(HW!)
 accept
+inV.frn
 
 Planning
 
