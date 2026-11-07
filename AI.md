@@ -4,8 +4,8 @@ API
 Agent
 Platform !
 
-| AI  | Company | cat | Models | desc
-| :------------ |:---------------:| -----:|:------------ |:------------ |
+| AI  | Company | cat | Models | Free | desc
+| :------------ |:---------------:| -----:|:------------ |:------------ |:------------ |
 | Gemini | Google | ... | gemini, Nano Banana
 | ChatGPT      | OpenAI        |   ... | gpt-??
 | Claude | ...        |    ... |
@@ -17,7 +17,7 @@ Platform !
 | Google NotebookLM
 | Microsoft Copilot
 | Perplexity | | | auto
-| Duck | DuckDuckGo | . | . | no-signin
+| Duck | DuckDuckGo | . | . | | no-signin
 | Bing | Microsoft
 | Meta AI
 | Pi
