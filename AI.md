@@ -20,6 +20,7 @@ Platform !
 | Duck | DuckDuckGo | . | . | | no-signin
 | Bing | Microsoft
 | Meta AI
+| mimo | xiaomi
 | Pi
 | venice
 | Midjourney | | image
