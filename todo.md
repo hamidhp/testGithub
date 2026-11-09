@@ -1,11 +1,12 @@
 
-⚪dg!...     Rebdy, Re ez noT imgW!(HW!)
+⚪**dg**!...     Rebdy, Re ez noT imgW!(HW!)
+
 accept
 inV.frn
 
 Planning
 
-## TODO
+## Todo
 Per,hlth
 $
 skills
