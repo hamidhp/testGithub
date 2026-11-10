@@ -6,10 +6,8 @@ inV.frn
 
 Planning
 
-## Todo
-Per,hlth
-$
-skills
+
+## Today, Daily
 
 ## Week
 
