@@ -1,5 +1,5 @@
-**Re...**
-⚪**dg**!...     Rebdy, Re ez noT imgW!(HW!)
+
+⚪**dg**!...     **Re...**   Rebdy, Re ez noT imgW!(HW!)
 
 inV.frn
 accept
