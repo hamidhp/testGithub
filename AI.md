@@ -19,7 +19,7 @@ Platform !
 | Perplexity | | | auto
 | Duck | DuckDuckGo | . | . | | no-signin
 | Bing | Microsoft
-| Meta AI
+| Meta AI | Meta
 | mimo | xiaomi
 | Pi
 | venice
