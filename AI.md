@@ -27,6 +27,7 @@ Platform !
 | Recraft
 | Heygen
 | leonardo
+| Muse | Meta | Agent
 | Hermes | Agent
 | HuggingChat
 | Google Flow
