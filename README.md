@@ -11,3 +11,22 @@ text
 | `obsidian.md` | [View](https://github.com/hamidhp/testGithub/blob/master/obsidian.md) |
 | `py_test.py` | [View](https://github.com/hamidhp/testGithub/blob/master/py_test.py) |
 | `todo.md` | [View](https://github.com/hamidhp/testGithub/blob/master/todo.md) |
+
+```mermaid
+flowchart TD
+    Root["Skills / Health-Pers"]
+
+    Skills["Skills"]
+    English["English"]
+    AI["AI"]
+
+    Health["Health/Pers"]
+    Walk["Walk"]
+
+    Root --> Skills
+    Skills --> English
+    Skills --> AI
+
+    Root --> Health
+    Health --> Walk
+```
