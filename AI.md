@@ -27,10 +27,11 @@ Platform !
 | Recraft
 | Heygen
 | leonardo
-| Muse | Meta | Agent
-| Hermes | Agent
 | HuggingChat
 | Google Flow
+| Muse | Meta | Agent
+| Hermes | Agent
 | Higgsfield | | Platform{Image, Video}
 | openrouter | | API
-| Ollama | | Local
+| Ollama | | Local Model
+| LM Studio | | Local Model
